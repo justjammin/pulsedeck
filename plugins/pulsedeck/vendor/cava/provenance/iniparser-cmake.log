@@ -1,0 +1,23 @@
+-- The C compiler identification is AppleClang 21.0.0.21000099
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /private/tmp/pulsedeck-iniparser-build/build
+[ 66%] Building C object CMakeFiles/iniparser-static.dir/src/iniparser.c.o
+[ 66%] Building C object CMakeFiles/iniparser-static.dir/src/dictionary.c.o
+[100%] Linking C static library libiniparser.a
+[100%] Built target iniparser-static
+-- Install configuration: ""
+-- Installing: /private/tmp/pulsedeck-native-prefix/lib/libiniparser.a
+-- Installing: /private/tmp/pulsedeck-native-prefix/include/iniparser/iniparser.h
+-- Installing: /private/tmp/pulsedeck-native-prefix/include/iniparser/dictionary.h
+-- Installing: /private/tmp/pulsedeck-native-prefix/include/iniparser/version.h
+-- Installing: /private/tmp/pulsedeck-native-prefix/lib/cmake/iniparser/iniparser-staticTargets.cmake
+-- Installing: /private/tmp/pulsedeck-native-prefix/lib/cmake/iniparser/iniparser-staticTargets-noconfig.cmake
+-- Installing: /private/tmp/pulsedeck-native-prefix/lib/cmake/iniparser/iniparser-config-version.cmake
+-- Installing: /private/tmp/pulsedeck-native-prefix/lib/cmake/iniparser/iniparser-config.cmake
+-- Installing: /private/tmp/pulsedeck-native-prefix/lib/pkgconfig/iniparser.pc

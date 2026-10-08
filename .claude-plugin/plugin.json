@@ -1,0 +1,11 @@
+{
+  "name": "pulsedeck",
+  "version": "0.1.0",
+  "description": "Music-reactive visuals inside Claude Code: Spectrum, Ocean, and Grid.",
+  "author": {
+    "name": "justjammin"
+  },
+  "homepage": "https://github.com/justjammin/pulsedeck",
+  "repository": "https://github.com/justjammin/pulsedeck",
+  "license": "GPL-3.0-or-later"
+}

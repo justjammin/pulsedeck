@@ -1,0 +1,20 @@
+{
+  "name": "pulsedeck",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "build": "node scripts/build.mjs",
+    "demo": "node scripts/demo.mjs",
+    "benchmark": "node scripts/benchmark.mjs",
+    "check": "node scripts/check.mjs",
+    "vendor:cava": "node scripts/vendor-cava.mjs",
+    "package": "node scripts/build.mjs --package",
+    "test:native": "claude plugin test ."
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "GPL-3.0-or-later"
+}

@@ -1,0 +1,16 @@
+{
+  "platform": "darwin-arm64",
+  "buildOS": "26.3.2",
+  "deploymentTarget": "14.2",
+  "claudeCode": "2.1.293",
+  "cavaCommit": "15f89867908fa66baaaec8d4b9a2d684a329a0fb",
+  "fftw": "3.3.11",
+  "iniparser": "4.3.2",
+  "autoconf": "2.73",
+  "automake": "1.19",
+  "libtool": "2.6.2",
+  "pkgconf": "3.0.7",
+  "linkage": "static FFTW/iniparser; macOS system dynamic libraries only",
+  "signing": "ad-hoc; verified with codesign --verify --strict",
+  "audioCaptureAcceptance": "pending macOS system audio permission"
+}

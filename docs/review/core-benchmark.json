@@ -1,0 +1,27 @@
+{
+  "scope": "core-only",
+  "runtime": "v24.19.0",
+  "platform": "linux",
+  "arch": "x64",
+  "parser": {
+    "iterations": 2000,
+    "chunkBytes": 37,
+    "inputBytes": 20268000,
+    "elapsedMs": 116.91831199999999,
+    "bytesPerSecond": 173351801.38420063,
+    "pendingBytes": 0,
+    "invalidFrames": 4000,
+    "validFrames": 2000,
+    "dropping": false,
+    "ownedBinaryBytes": 4128
+  },
+  "render": {
+    "iterations": 2000,
+    "elapsedMs": 87.40458900000002,
+    "ownedBinaryBytesBefore": 50432,
+    "ownedBinaryBytesAfter": 50432,
+    "checksum": 147780
+  },
+  "hostBudgets": "unmeasured targets",
+  "limitations": "Owned typed arrays only; excludes JS heap, host raster/base64 transport, CAVA, RSS, CPU and capture latency."
+}

@@ -1,0 +1,12 @@
+
+> pulsedeck@0.1.0 test:native
+> claude plugin test .
+
+
+tests/host.test.ts:
+(pass) native controls render on terminal, preserve neighbors, and stop Demo [50.90ms]
+(pass) native desktop fallback and surveys preserve host content [18.50ms]
+
+ 2 pass
+ 0 fail
+Ran 2 tests across 1 file. [0.19s]

@@ -1,0 +1,14 @@
+{
+  "name": "pulsedeck",
+  "owner": {
+    "name": "justjammin"
+  },
+  "plugins": [
+    {
+      "name": "pulsedeck",
+      "source": "./plugins/pulsedeck",
+      "description": "Three music-reactive terminal presets with bundled Mac audio capture."
+    }
+  ],
+  "description": "PulseDeck music visualizer for Claude Code"
+}

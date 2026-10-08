@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "upstream": {
+    "version": "1.0.0",
+    "commit": "15f89867908fa66baaaec8d4b9a2d684a329a0fb"
+  },
+  "targets": [
+    {
+      "platform": "darwin",
+      "arch": "arm64",
+      "executable": "vendor/cava/darwin-arm64/cava",
+      "sha256": "0b12690a714abcba86387639a62b5eae9769c02fcf6f039f3427ad38687030e4",
+      "mode": "0755",
+      "backends": [
+        "coreaudio"
+      ],
+      "outputAuto": true,
+      "minimumOS": "14.2",
+      "runtimeLibraries": [],
+      "notices": [
+        "vendor/cava/notices/cava-LICENSE",
+        "vendor/cava/notices/fftw-LICENSE",
+        "vendor/cava/notices/iniparser-LICENSE"
+      ],
+      "sourceMaterials": [
+        "vendor/cava/sources/SHA256SUMS",
+        "vendor/cava/sources/build-cava.sh",
+        "vendor/cava/sources/cava-15f89867908fa66baaaec8d4b9a2d684a329a0fb.tar.gz",
+        "vendor/cava/sources/fftw-3.3.11.tar.gz",
+        "vendor/cava/sources/iniparser-4.3.2.tar.bz2"
+      ],
+      "audited": false
+    }
+  ],
+  "status": "Native candidate: static FFTW and iniparser; CoreAudio tap built; release evidence pending."
+}
