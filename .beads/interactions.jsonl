@@ -1,1 +1,2 @@
 {"id":"int-498a4d73","kind":"field_change","created_at":"2026-10-08T05:20:45.432712Z","actor":"Jamin Echols","issue_id":"pulse-s3f","extra":{"field":"status","new_value":"blocked","old_value":"in_progress"}}
+{"id":"int-e6ca42d6","kind":"field_change","created_at":"2026-10-08T05:24:26.985106Z","actor":"Jamin Echols","issue_id":"pulse-hyf","extra":{"field":"status","new_value":"closed","old_value":"in_progress","reason":"Public repository pushed and v0.1.0-rc.1 prerelease uploaded with candidate ZIP and checksum. Real capture acceptance remains tracked in pulse-nzp."}}
