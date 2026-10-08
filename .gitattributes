@@ -1,0 +1,5 @@
+# Preserve upstream licenses, generated declarations, and raw build logs verbatim.
+vendor/cava/** whitespace=-blank-at-eol,-blank-at-eof
+plugins/pulsedeck/vendor/cava/** whitespace=-blank-at-eol,-blank-at-eof
+docs/integration/claude-code-2.1.293.d.ts whitespace=-blank-at-eof
+plugins/pulsedeck/docs/integration/claude-code-2.1.293.d.ts whitespace=-blank-at-eof
